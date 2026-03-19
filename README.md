@@ -19,7 +19,7 @@
 <!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true) -->
 
 ### Раздел «Защита паролей»
-![Защита паролей]/ph2.jpg)
+![Защита паролей]/https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
 
 ### Раздел «Безопасность в интернете»
 ![Безопасность в интернете](images/ph3.jpg)
