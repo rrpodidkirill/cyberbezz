@@ -20,10 +20,10 @@
 <!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true) (https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)-->
 
 ### Раздел «Защита паролей»
-![Защита паролей]/https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
+![Защита паролей](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/phparol.jpg?raw=true)
 
 ### Раздел «Безопасность в интернете»
-![Безопасность в интернете](images/ph3.jpg)
+![Безопасность в интернете](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/4ph.jpg?raw=true)
 
 ## 🛠️ Технологии
 
