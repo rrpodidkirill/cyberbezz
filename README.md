@@ -14,7 +14,8 @@
 ## 📸 Скриншоты
 
 ### Главная страница
-![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)(https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
+![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)
+[](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
 <!-- или используй полную ссылку: -->
 <!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)(https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true) -->
 
