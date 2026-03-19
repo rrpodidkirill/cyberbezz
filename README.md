@@ -14,16 +14,18 @@
 ## 📸 Скриншоты
 
 ### Главная страница
-![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)
-(https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
+![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)(https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
 <!-- или используй полную ссылку: -->
-<!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true) (https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)-->
+<!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true)(https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true) -->
 
 ### Раздел «Защита паролей»
 ![Защита паролей](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/phparol.jpg?raw=true)
 
 ### Раздел «Безопасность в интернете»
 ![Безопасность в интернете](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/4ph.jpg?raw=true)
+
+### Раздел «Защита от вредоносных программ»
+![Защита от вредоносных программ](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/3ph.jpg?raw=true)
 
 ## 🛠️ Технологии
 
