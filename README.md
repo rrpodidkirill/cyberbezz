@@ -16,7 +16,7 @@
 ### Главная страница
 ![Главная страница](images/ph1.jpg)
 <!-- или используй полную ссылку: -->
-<!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg?raw=true) -->
+<!-- ![Главная страница](https://github.com/rrpodidkirill/cyberbezz/blob/main/images/1ph.jpg) -->
 
 ### Раздел «Защита паролей»
 ![Защита паролей]/https://github.com/rrpodidkirill/cyberbezz/blob/main/images/2ph.jpg?raw=true)
